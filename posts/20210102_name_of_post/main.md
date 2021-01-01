@@ -3,7 +3,7 @@ Keyword:
 Copyright: (C) 2020 Masahiro KIYOOKA
 ---
 
-# title
+# title of 2021/01/02-post
 
-Write contents here.
+bashcms2
 
