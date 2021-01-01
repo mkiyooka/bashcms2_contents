@@ -7,6 +7,13 @@ Copyright: (C) 2020 Masahiro KIYOOKA
 
 記事の本文
 
+## Twitter
+
+* <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">Twitter埋め込み<a href="
+https://t.co/8WjG1GFAKL"> pic. twitter. com/8WjG1GFAKL</a></p>&mdash; Ryuichi Ueda (@ryuichiueda)<a href ="https://twitter.com/ryuichiueda/status/895812078354563072">2017年8月11日</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
 * [別の記事へのジャンプ](#alpaca)
 
 ## ビーバー
