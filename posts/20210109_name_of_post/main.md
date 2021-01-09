@@ -1,5 +1,5 @@
 ---
-Keywords: alpaca, beaver
+Keywords: test, article
 Copyright: (C) 2020 Masahiro KIYOOKA
 ---
 
@@ -13,14 +13,4 @@ Copyright: (C) 2020 Masahiro KIYOOKA
 |  body A2 |  body B2 |  body C2 |  body D2 |
 
 ### h3 タイトル
-
-## ビーバー
-
-![ビーバー](./beaver.png)
-
-## <span id="alpaca">アルパカ</span>
-
-![](alpaca.png)
-
-[Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%BC%E3%83%90%E3%83%BC)
 
