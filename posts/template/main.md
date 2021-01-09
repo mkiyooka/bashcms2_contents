@@ -1,5 +1,5 @@
 ---
-Keyword:
+Keywords:
 Copyright: (C) 2020 Masahiro KIYOOKA
 ---
 
