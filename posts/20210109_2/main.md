@@ -3,7 +3,7 @@ Keywords: test, article
 Copyright: (C) 2020 Masahiro KIYOOKA
 ---
 
-# テスト用の記事
+# 記事
 
 記事の本文1
 記事の本文1
