@@ -1,6 +1,8 @@
+protocol: 'https:'
+host: 'content.rehash.info'
+sitetitle: 'サイトのタイトル'
+sitesubtitle: 'Bootstrapを使っている。Pandocも。'
 links:
-  - text: 'top'
-    href: '/?page=top'
   - text: '開発日誌（ブログ）'
     href: '/?post'
   - text: '外部サイト'
